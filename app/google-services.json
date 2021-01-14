@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583349815760",
+    "firebase_url": "https://remote-update-b9124.firebaseio.com",
+    "project_id": "remote-update-b9124",
+    "storage_bucket": "remote-update-b9124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583349815760:android:a47c2f1c2fac6c72b851d5",
+        "android_client_info": {
+          "package_name": "com.example.taskupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583349815760-tkeroh0mubfseh5sje03ggop1o117k4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGl87StHWXIsS7U5B3lFgAMd9vpSOkVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583349815760-tkeroh0mubfseh5sje03ggop1o117k4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
